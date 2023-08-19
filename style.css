@@ -1,0 +1,19 @@
+.container {
+
+  background-color: #eee;
+  border: 2px solid red;
+  padding: 15px;
+  max-width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center; /*elementos no centro dos dois echos*/
+  /*alinhamento vertical*/
+  align-items:center;/*centralizar os alinhamento centro y*/
+
+}
+.col {
+  background-color: #ccc;
+  border: 2px solid blue;
+  height: 50px;
+  width: 50px;
+}
