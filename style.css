@@ -6,7 +6,7 @@
   max-width: 300px;
   height: 300px;
   display: flex;
-  justify-content: center; /*elementos no centro dos dois echos*/
+  justify-content: space-between; /*elementos no centro dos dois echos*/
   /*alinhamento vertical*/
   align-items:center;/*centralizar os alinhamento centro y*/
   flex-wrap: wrap;/* atingindo a area maxima de linhas*/
